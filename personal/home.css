@@ -1,0 +1,39 @@
+.navbar {
+    background-color: cyan;
+    margin-bottom: 10px;
+}
+
+.navbar ul {
+
+    list-style-type: none;
+    display: inline-flex;
+    margin-left: 700px;
+}
+
+a {
+    margin: 20px;
+    text-decoration: none;
+}
+
+.image {
+    width: 420px;
+    border-radius: 50px;
+    float: left;
+}
+body{
+    background-color: aliceblue;
+}
+
+.scovia {
+    float: right;
+    color: rgb(28, 101, 164);
+}
+
+.footer1{
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    font-family: sans-serif;
+    
+}

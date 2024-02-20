@@ -1,0 +1,76 @@
+.navbar {
+
+    background-color: cyan;
+
+
+}
+
+.navbar ul {
+    list-style-type: none;
+    display: inline-flex;
+    margin-left: 700px;
+}
+
+
+
+a {
+    margin: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    font-family: sans-serif;
+    margin-bottom: 8px;
+    padding-top: auto;
+
+}
+
+
+
+
+.journey {
+    border: solid red;
+    background-color: aliceblue;
+    padding-left: 12px;
+    margin-left: 6px;
+    margin-right: 6px;
+    border-radius: 10px;
+}
+
+.concept {
+    border: solid red;
+    background-color: aliceblue;
+    margin-top: 15px;
+    margin-left: 6px;
+    margin-right: 6px;
+    border-radius: 10px;
+
+}
+
+h2,
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: cadetblue;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+
+
+.paragraph {
+    margin-left: 500px;
+    font-weight: bolder;
+}
+
+.content {
+    padding-left: 40px;
+    padding-right: 30px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 5opx;
+    margin: 20px;
+    padding-bottom: 10px;
+}
+
+.Image {
+    margin-left: 500px;
+}
